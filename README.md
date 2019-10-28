@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_test
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue_temp
+>>>>>>> b46eede24eef152dbb347d413736249bd9fbbe11
